@@ -1,4 +1,4 @@
-# MySQL_NFT_Cryptopinks_Project
+# MySQL_NFT_Cryptopunks_Project
 
 ## In this project I have utilized SQL queries to analyze the real world NFT Data.
 ## Constructed new columns for the summary and event of each NFT transaction in data.
